@@ -1,0 +1,17 @@
+#container {
+    background:#87CEFA;
+    margin: 0 auto;
+    border: 4px solid black;
+    border-radius:8px;
+}
+
+input{
+    margin-top: 10px;
+    margin-left:10px;
+}
+
+button{
+    margin-left:5px;
+    border-color:#FF0000;
+    border-radius:5px;
+}
